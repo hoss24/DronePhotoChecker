@@ -12,5 +12,5 @@ iOS App that allows a pilot to check drone photo collection after a mapping miss
 
 **App Screenshots**
 
-<img src="Screenshots/1.png" width="225"> <img src="Screenshots/2.png" width="225"> <img src="Screenshots/3.png" width="225"> <img src="Screenshots/4.png" width="225"> <img src="Screenshots/5.png" width="225"> <img src="Screenshots/6.png" width="225"> <img src="Screenshots/7.png" width="225"> <img src="Screenshots/8.png" width="225">
+<img src="Screenshots/1.png" width="400"> <img src="Screenshots/2.png" width="400"> <img src="Screenshots/3.png" width="400"> <img src="Screenshots/4.png" width="400"> <img src="Screenshots/5.png" width="400"> <img src="Screenshots/6.png" width="400"> <img src="Screenshots/7.png" width="400"> <img src="Screenshots/8.png" width="400">
 
